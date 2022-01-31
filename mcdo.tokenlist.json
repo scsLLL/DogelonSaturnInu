@@ -1,0 +1,21 @@
+{
+    "name": "MCDO Token List",
+    "logoURI": "https://i.imgur.com/tt0vG2N.png",
+    "version": {
+      "major": 0,
+      "minor": 1,
+      "patch": 0
+    },
+    "keywords": [],
+    "timestamp": "2022-01-31T02:35:00+00:00",
+    "tokens": [
+        {
+            "chainId": 11111,
+            "address": "0x20134910C4c5347b58368Ccc5337D8C2b7c9cDd5",
+            "decimals": 18,
+            "name": "DogelonSaturnInuMetaverseTripleCheeseBurger",
+            "symbol": "MCDO",
+            "logoURI": "https://cdn1.charal.fr/wp-content/uploads/2015/09/SUC02.png"
+        },
+    ]
+  }
